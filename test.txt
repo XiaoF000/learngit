@@ -1,4 +1,0 @@
-abc
-Hello Java
-Hello World2
-Hello JS
